@@ -7,4 +7,4 @@ Different Java challenges I went across while study or practice online.
 Codesmith
 Freecodecamp
 Linkedin Learn 
-Cats 
+Meetup groups 
