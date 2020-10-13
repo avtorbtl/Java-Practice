@@ -4,7 +4,6 @@ Different Java challenges I went across while study or practice online.
 
 ## Places where I practice and study 
 
-Codesmith
-Freecodecamp
-Linkedin Learn 
-Meetup groups 
+Codesmith \n Freecodecamp
+\n Linkedin Learn 
+\n Meetup groups 
